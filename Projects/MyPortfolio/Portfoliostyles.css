@@ -309,6 +309,18 @@ section {
     line-height: 1.8;
     margin-bottom: 25px;
 }
+.resume {
+    padding: 8px 5px;
+    text-decoration: none;
+    border: rgb(255,181,0) 1px solid;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #F5FFFA;
+    width: 150px;
+}
+.resume:hover {
+    background-color: var(--main-color);
+}
 .list {
     margin-bottom: 2.8rem;
 }
